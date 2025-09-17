@@ -38,7 +38,7 @@ Kaggle dataset (Zepto inventory data)
 
 # Acknowledgements
 - Dataset: Zepto Inventory Dataset – Kaggle
-- Tutorial: Complete SQL Data Analyst Portfolio Project with Real Zepto Data
- by Amlan Mohanty
+- Tutorial: [YouTube Link](https://www.youtube.com/watch?v=x8dfQkKTyP0)
+ Amlan Mohanty
 - Inspiration: Zepto, India’s quick-commerce grocery platform
 
