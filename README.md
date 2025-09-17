@@ -7,10 +7,10 @@ Following the tutorial “Complete SQL Data Analyst Portfolio Project with Real 
 
 # Objectives
 
-> import and clean the dataset (handle nulls, remove zeros, convert paise → ₹).
-> Perform exploratory data analysis (EDA) using SQL.
-> Answer nine business-focused questions using analytical SQL queries.
-> Summarize findings into insights that help optimize inventory and pricing strategies.
+- import and clean the dataset (handle nulls, remove zeros, convert paise → ₹).
+- Perform exploratory data analysis (EDA) using SQL.
+- Answer nine business-focused questions using analytical SQL queries.
+- Summarize findings into insights that help optimize inventory and pricing strategies.
 
 # Key Insights & Queries
 The project answers nine real-world inventory questions:
