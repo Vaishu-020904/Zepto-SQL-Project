@@ -31,14 +31,14 @@ pgAdmin / psql CLI (query execution & analysis)
 Kaggle dataset (Zepto inventory data)
 
 # Outcomes
-Designed 8+ business-driven SQL queries aligned with retail KPIs.
-Identified best-value products, potential overstock risks, and pricing inefficiencies.
-Simulated an end-to-end analyst workflow from raw dataset → cleaned data → insights.
-Built a portfolio project demonstrating SQL for business problem-solving.
+- Designed 8+ business-driven SQL queries aligned with retail KPIs.
+- Identified best-value products, potential overstock risks, and pricing inefficiencies.
+- Simulated an end-to-end analyst workflow from raw dataset → cleaned data → insights.
+- Built a portfolio project demonstrating SQL for business problem-solving.
 
 # Acknowledgements
-Dataset: Zepto Inventory Dataset – Kaggle
-Tutorial: Complete SQL Data Analyst Portfolio Project with Real Zepto Data
+- Dataset: Zepto Inventory Dataset – Kaggle
+- Tutorial: Complete SQL Data Analyst Portfolio Project with Real Zepto Data
  by Amlan Mohanty
-Inspiration: Zepto, India’s quick-commerce grocery platform
+- Inspiration: Zepto, India’s quick-commerce grocery platform
 
